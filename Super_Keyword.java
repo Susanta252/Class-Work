@@ -39,7 +39,7 @@ class Employee extends User{
 
 public class Super_Keyword {
     public static void main(String[] args) {
-        Employee emp1 = new Employee(4,"Sapndan","Salkia Howrah",25000,"Web Developer");
+        Employee emp1 = new Employee(245,"Susanta","Salkia Howrah",35000,"Manager");
         emp1.getData();
     }
 }
